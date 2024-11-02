@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora IOS, estudando liguagem Swift 📚
+Desenvolvedora IOS 
 
 
 ## 🔗 Links
